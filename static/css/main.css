@@ -875,7 +875,7 @@ body {
 .v6_12 {
   width: 222px;
   height: 442px;
-  background: url("../images/v6_12.png");
+  background: url("/static/images/v6_12.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
