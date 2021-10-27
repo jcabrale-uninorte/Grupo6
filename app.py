@@ -1,6 +1,5 @@
 from os import name
-from  flask import Flask
-from flask.templating import render_template
+from  flask import Flask, render_template
 
 app = Flask(__name__)
 
